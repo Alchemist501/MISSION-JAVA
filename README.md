@@ -1,4 +1,5 @@
 # Basics Of Java
+
 <h3>Contents</h3>
 <OL>
   
@@ -7,7 +8,7 @@
     <LI>Loops</LI>
     <LI>Patterns</LI>
     <LI>Arrays</LI>
-    <LI>Strings</LI>
+    <LI>Strings and String Tokenizer</LI>
     <LI>Bit Manipulation Methods</LI>
   
 </OL>
