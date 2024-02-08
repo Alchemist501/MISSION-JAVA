@@ -25,6 +25,11 @@
     <LI>Buffered Reading And Writing</LI>
     <LI>Copying One File To Another</LI>
     </OL>
+  <h2><LI>THREAD IN JAVA</LI></h2>
+  <OL>
+    <LI>Thread Synchronization</LI>
+  </OL>
+
 </OL>
 <p>Visit each branch to view the content</p>
 <h4>Model questions are provided in main branch</h4>
