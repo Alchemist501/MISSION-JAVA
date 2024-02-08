@@ -1,4 +1,5 @@
 .vscode/
 Sorting/
 abstraction/
-.class*
+*.class
+*.txt
