@@ -12,6 +12,11 @@
     <LI>Strings</LI>
     <LI>Bit Manipulation Methods</LI>
   </OL>
+  <h2><LI>OBJECT ORIENTED PROGRAMMING CONECPTS</LI></h2>
+  <OL>
+    <LI>Inheritance</LI>
+    <LI>Polymorphism</LI>
+  </OL>
   <h2><LI>FILE HANDLING USING JAVA</LI></h2>
   <OL>
     <LI>Create File</LI>
