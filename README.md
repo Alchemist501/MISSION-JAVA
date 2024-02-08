@@ -9,7 +9,7 @@
     <LI>Loops</LI>
     <LI>Patterns</LI>
     <LI>Arrays</LI>
-    <LI>Strings</LI>
+    <LI>Strings And String Tokenizer</LI>
     <LI>Bit Manipulation Methods</LI>
   </OL>
   <h2><LI>FILE HANDLING USING JAVA</LI></h2>
@@ -19,6 +19,6 @@
     <LI>Write To File</LI>
     <LI>Buffered Reading And Writing</LI>
     <LI>Copying One File To Another</LI>
-</OL>
+    </OL>
 
 </OL>
