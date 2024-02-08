@@ -1,0 +1,1 @@
+Enter the details Hello Everyone \n In this example, the createNewFile method is called on a File object to create a new file named NewFile.txt in the current directory. The method returns true if the file was successfully created, or false otherwise. 
