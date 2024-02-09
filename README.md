@@ -27,9 +27,11 @@
     </OL>
   <h2><LI>THREAD IN JAVA</LI></h2>
   <OL>
-    <LI>Thread Synchronization</LI>
+    <li>Create Thread Using Thread Claas</li>
+    <li>Create Thread Using Runnable Interface</li>
+    <li>MultiThreaded Programs</li>
+    <li>Thread Synchronization</li>
   </OL>
-
-</OL>
+  </OL>
 <p>Visit each branch to view the content</p>
 <h4>Model questions are provided in main branch</h4>
