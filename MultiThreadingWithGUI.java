@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.event.*;
 
 class display {
-    public void print(String msg, int N) {
+    public synchronized void print(String msg, int N) {
         for (int i = 0; i < N; i++)
             System.out.println(msg);
         try {
